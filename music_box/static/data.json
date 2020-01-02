@@ -1,0 +1,32 @@
+{
+  "root":[
+    {
+      "uid":"123456",
+      "username":"Frank",
+      "age":"20",
+      "avatar":"./components/music-header/logo"
+    }
+  ],
+  "imger":[
+    {
+      "id":"1",
+      "imgurl":"../static/img/png1.png"
+    },
+    {
+      "id":"2",
+      "imgurl":"../static/img/png2.png"
+    },
+    {
+      "id":"3",
+      "imgurl":"../static/img/png3.png"
+    },
+    {
+      "id":"4",
+      "imgurl":"../static/img/png4.png"
+    },
+    {
+      "id":"5",
+      "imgurl":"../static/img/png5.png"
+    }
+  ]
+}
